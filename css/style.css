@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #34AD54;
-    --secondary: #FF9933;
+    --primary: #49A078;
+    --secondary: #216869;
     --light: #F6FFF2;
     --dark: #263A4F;
 }
@@ -98,7 +98,7 @@
 }
 
 .bg-hero {
-    background: url(../img/carousel-1.jpg) top right no-repeat;
+    background: url(../img/farmingai.gif) top right no-repeat;
     background-size: cover;
 }
 
@@ -288,7 +288,7 @@
 }
 
 .bg-footer {
-    background: linear-gradient(rgba(52, 173, 84, .7), rgba(52, 173, 84, .7)), url(../img/footer.png) center bottom no-repeat;
+    background: linear-gradient(#216869, rgba(52, 173, 84, .7)), url(../img/footer.png) center bottom no-repeat;
     background-size: contain;
 }
 
