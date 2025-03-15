@@ -110,14 +110,19 @@
     }
 }
 
-.bg-vegetable {
-    background: linear-gradient(rgba(52, 173, 84, .2), rgba(52, 173, 84, .2)), url(../img/vegetable.png) bottom right no-repeat;
-    background-size: contain;
+.bg-mercury {
+    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/mercuryline.png) bottom right no-repeat;
+    background-size: auto;
 }
 
-.bg-fruit {
-    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/fruit.png) bottom right no-repeat;
-    background-size: contain;
+.bg-mars {
+    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/marsline.png) bottom right no-repeat;
+    background-size: auto;
+}
+
+.bg-jupiter {
+    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/jupiterline.png) bottom right no-repeat;
+    background-size: auto;
 }
 
 .service-item {
